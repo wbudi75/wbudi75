@@ -1,7 +1,7 @@
-- 👋 Hi, I’m budi
-- 👀 I’m interested in Linux, Raspberry Pi, IoT, Security
-- 🌱 I’m currently learning Python, Flask, Docker
-- 💞️ I’m looking to collaborate on Website, Data Mining, IoT
+- 👋 Hi, I’m Wahyu Budi
+- 👀 I’m interested in Linux, Raspberry Pi, IoT, Cyber Security, PFSense, Mikrotik, VyOS.
+- 🌱 I’m currently learning Python, Flask, Docker, AI.
+- 💞️ I’m looking to collaborate on Cybersec, IoT, Develop AI.
 - 📫 How to reach me send email to wbudi75@yandex.com
 
 <!---
